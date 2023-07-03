@@ -30,3 +30,10 @@ transform: translate(-50%, -50%);
     background:  url('pacote-d013/imagens/frame-iphone.png')  no-repeat top center;
     
 }
+iframe#tela{
+    position: relative;
+    top:80px ;
+    left: 23px;
+    width: 269px;
+    height: 471px;
+}
